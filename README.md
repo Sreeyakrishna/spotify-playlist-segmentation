@@ -1,2 +1,2 @@
 # spotify-playlist-segmentation
-Clustering and similarity based analysis for spotify playlist segmentation
+ Hybrid Clustering and similarity- based  segmentation of Spotify playlists for enhanced music recommendation
